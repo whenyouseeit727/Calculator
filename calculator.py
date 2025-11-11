@@ -25,8 +25,6 @@ def multiply(a, b):
 
 
 
-
-
 operation = input("Choose what operation you want to do\n")
 
 
