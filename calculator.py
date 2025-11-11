@@ -11,4 +11,3 @@ def division(a,b):
     return a/b
 
 operation = input("Choose what operation you want to do\n")
-print(division(a,b))
