@@ -1,3 +1,4 @@
+
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 
@@ -7,6 +8,13 @@ print("2. Subtraction (-)")
 print("3. Multiplication (*)")
 print("4. Division (/)")
 
+
+
+
+
+def addition(a, b):
+
+    return a + b
 def division(a,b):
     return a/b
 
