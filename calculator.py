@@ -10,4 +10,17 @@ print("4. Division (/)")
 def division(a,b):
     return a/b
 
+
+
+
+def multiplication_numbers(a, b):
+
+    return a * b
+
 operation = input("Choose what operation you want to do\n")
+
+
+
+
+
+
