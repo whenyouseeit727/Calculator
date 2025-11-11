@@ -7,11 +7,18 @@ print("2. Subtraction (-)")
 print("3. Multiplication (*)")
 print("4. Division (/)")
 
-operation = input("Choose what operation you want to do\n")
+
+
 
 
 def multiplication_numbers(a, b):
 
     return a * b
+
+operation = input("Choose what operation you want to do\n")
+
+
+
+
 
 
