@@ -11,11 +11,12 @@ print("4. Division (/)")
 
 
 
-def multiplication_numbers(a, b):
+def subtraction(a, b):
 
     return a - b
 
 operation = input("Choose what operation you want to do\n")
+
 
 
 
