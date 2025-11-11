@@ -7,6 +7,8 @@ print("2. Subtraction (-)")
 print("3. Multiplication (*)")
 print("4. Division (/)")
 
+def division(a,b):
+    return a/b
 
 
 
