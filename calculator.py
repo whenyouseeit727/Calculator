@@ -13,9 +13,10 @@ print("4. Division (/)")
 
 def multiplication_numbers(a, b):
 
-    return a * b
+    return a - b
 
 operation = input("Choose what operation you want to do\n")
+
 
 
 
