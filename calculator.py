@@ -12,10 +12,10 @@ print("4. Division (/)")
 
 
 def subtraction(a, b):
-
     return a - b
 
 operation = input("Choose what operation you want to do\n")
+
 
 
 
